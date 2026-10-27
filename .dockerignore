@@ -1,0 +1,11 @@
+build/
+**/*.o
+**/*.a
+
+apps/backend/backend
+apps/balancer/balancer
+apps/loadgen/loadgen
+
+results/
+.git/
+.vscode/
